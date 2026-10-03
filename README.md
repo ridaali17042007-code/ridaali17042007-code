@@ -127,7 +127,7 @@ A software project developed using **React and JavaScript**, created as part of 
 
 **Streamlit • Python • Data Science • AI**
 
-**Eduviz (E-D-U-V-I-Z)** is an **autonomous data scientist platform** developed using **Streamlit for the frontend and Python for the backend**.
+**Eduviz** is an **autonomous data scientist platform** developed using **Streamlit for the frontend and Python for the backend**.
 
 The project was presented at an **AWS Hackathon — Ship with Kilo**.
 
