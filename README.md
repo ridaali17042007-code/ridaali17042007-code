@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm [YOUR NAME]
+# 👋 Hi, I'm Rida Ali
 
 ### AI-Focused Software Engineer • Developer • Freelancer
 
@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm a **third-semester student at UTI, Pune**, focused on **AI engineering, software development, and modern web technologies**.
+I'm a **third-semester student at UET, Lahore**, focused on **AI engineering, software development, and modern web technologies**.
 
 I enjoy taking an idea from the planning stage to a working software product — including **software roadmaps, specifications, documentation, test plans, development, and AI-assisted implementation**.
 
